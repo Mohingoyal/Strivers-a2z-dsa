@@ -9,4 +9,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0557-reverse-words-in-a-string-iii) |
+## String
+|  |
+| ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0557-reverse-words-in-a-string-iii) |
 <!---LeetCode Topics End-->
