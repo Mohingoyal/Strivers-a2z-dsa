@@ -27,15 +27,19 @@ for(int i=k;i<=(k+e)/2;i++)
                 ptr2--;
 
             }
+     
+             else if(ptr2==0 && s[ptr2]==' ')
+            {
+                put(revstr,s,ptr1,ptr2+1);
+                ptr2--;
+                
+                break;
+            }
          
-            //  else if(ptr2==0 && s[ptr2]==' ')
-            // {
-            //     put(revstr,s,ptr1,ptr2+1);
-            //     ptr2--;
-            // }
               else if(s[ptr2]==' ')
             {
                 put(revstr,s,ptr1,ptr2);
+                
                 ptr1=ptr2-1;
                 ptr2--;
             }
