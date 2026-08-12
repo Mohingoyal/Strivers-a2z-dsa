@@ -23,7 +23,7 @@ void rev(string &s,int k,int e)
                 rev(s,ptr1,ptr2);
                 ptr2++;
             }
-            else
+            
             ptr2++;
         }
         return s;
