@@ -11,6 +11,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0205-isomorphic-strings](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0205-isomorphic-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0205-isomorphic-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Binary Search
 |  |
