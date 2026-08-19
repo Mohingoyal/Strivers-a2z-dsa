@@ -1,6 +1,6 @@
 class Solution {
 public:
-void getmaxpos(string& skill,string &station,vector<int> &ary,int &gap)
+int getmaxpos(string& skill,string &station,vector<int> &ary,int &gap)
 {int k=ary.size()-1;
     for(int i=station.length()-1;i>=0;i--)
     {
@@ -12,7 +12,7 @@ void getmaxpos(string& skill,string &station,vector<int> &ary,int &gap)
     gap=max(store,gap);
       }
     }
-    return;
+    return gap;
 
 }
 void place(string &skill,string &station,vector<int>& ary)//placing the skills that occur one by one in order at stations
@@ -35,7 +35,7 @@ return;
     
 
         place(skill,station,ary);
-    getmaxpos(skill,station,ary,gap);
-    return gap;
+    return getmaxpos(skill,station,ary,gap);
+
     }
 };
