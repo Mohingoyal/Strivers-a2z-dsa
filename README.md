@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0004-median-of-two-sorted-arrays) |
+| [0048-rotate-image](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0169-majority-element) |
 ## Hash Table
@@ -68,4 +69,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
