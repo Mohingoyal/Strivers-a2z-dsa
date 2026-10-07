@@ -83,4 +83,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
