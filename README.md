@@ -92,4 +92,16 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0024-swap-nodes-in-pairs) |
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
