@@ -95,6 +95,7 @@
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0110-balanced-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
@@ -104,10 +105,16 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0110-balanced-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0110-balanced-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
