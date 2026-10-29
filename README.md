@@ -21,6 +21,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0392-is-subsequence) |
@@ -86,6 +87,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0024-swap-nodes-in-pairs) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
