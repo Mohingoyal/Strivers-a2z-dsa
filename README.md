@@ -100,11 +100,13 @@
 | [0101-symmetric-tree](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0110-balanced-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -112,6 +114,7 @@
 | [0101-symmetric-tree](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0110-balanced-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
@@ -119,6 +122,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0110-balanced-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Mohingoyal/Strivers-a2z-dsa/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
